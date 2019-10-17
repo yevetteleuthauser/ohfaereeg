@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oojophoov.carlocarfora.co.uk/sitemap.xml
